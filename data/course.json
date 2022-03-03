@@ -1,0 +1,25 @@
+{
+  "level": "",
+  "topics": [],
+  "instructors": {
+    "content": [],
+    "website": "test-pr-225"
+  },
+  "course_image": {
+    "content": "",
+    "website": "test-pr-225"
+  },
+  "course_title": "update title",
+  "course_description": "",
+  "department_numbers": [
+    "3"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "3",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "test-pr-225"
+  },
+  "learning_resource_types": [],
+  "site_uid": "fc85a898-cd66-4a6f-81e1-041fcf156262"
+}
